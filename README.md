@@ -1,4 +1,3 @@
-👋 <b>Hello World</b><br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ichsnn)
 <!---
 ichsnn/ichsnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
