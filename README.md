@@ -1,5 +1,3 @@
-<h1>-ichsnn-</h1>
-<hr>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ichsnn)
 <!---
 ichsnn/ichsnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
