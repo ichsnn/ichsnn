@@ -1,7 +1,4 @@
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=ichsnn&show_icons=true) -->
+# Hello there, I'am Ichsan 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichsnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- -
-ichsnn/ichsnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- -->
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ichsnn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ichsan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichsnn&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
