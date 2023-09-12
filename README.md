@@ -23,7 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Groovy           33 mins         ████████░░░░░░░░░░░░░░░░░   31.58 %
+Gradle           33 mins         ███████▓░░░░░░░░░░░░░░░░░   31.24 %
+XML              20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
+Kotlin           16 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
+Markdown         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
