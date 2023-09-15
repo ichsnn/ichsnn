@@ -22,21 +22,21 @@
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 07 September 2023 - To: 12 September 2023
+```txt
+From: 07 September 2023 - To: 14 September 2023
 
-Total Time: 11 hrs 38 mins
+Total Time: 27 hrs 18 mins
 
-Kotlin            6 hrs 46 mins   ██████████████▓░░░░░░░░░░   58.25 %
-XML               1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-TOML              1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
-Ezhil             38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-Groovy            34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Gradle            33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-ActionScript      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Java              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-GitIgnore file    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Markdown          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Kotlin            12 hrs 57 mins  ████████████░░░░░░░░░░░░░   47.45 %
+TypeScript        5 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   20.50 %
+XML               3 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
+TOML              1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Ezhil             47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Java              37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Groovy            35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Gradle            33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+JSON              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Bash              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
